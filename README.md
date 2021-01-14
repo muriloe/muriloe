@@ -2,7 +2,8 @@
 <h3 align="center">Mobile | Front-end Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muriloe" alt="muriloe" /> </p>
 <div align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
+  ![Selection Page](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)
+
   </div>
 <br>
 
