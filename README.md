@@ -2,9 +2,9 @@
 <h3 align="center">Mobile | Front-end Developer </h3>
 
 <br>
-✉ muriloerhardt@outlook.com
-👨🏽‍💻 muriloe.github.io/
-💬 https://www.linkedin.com/in/murilo-erhardt/
+✉ muriloerhardt@outlook.com<br>
+👨🏽‍💻 muriloe.github.io/<br>
+💬 https://www.linkedin.com/in/murilo-erhardt/<br>
 <br>
 
 [![muriloe stats](https://github-readme-stats.vercel.app/api?username=muriloe)](https://github.com/muriloe/github-readme-stats)
