@@ -7,6 +7,6 @@
 💬 https://www.linkedin.com/in/murilo-erhardt/<br>
 <br>
 
-[![muriloe stats](https://github-readme-stats.vercel.app/api?username=muriloe)](https://github.com/muriloe/github-readme-stats)
+
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muriloe" alt="muriloe" /> </p>
